@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "REYTRADE",
   "VITE_SEO_SITE_DESCRIPTION": "Decentralized exchange, featuring alerts and market scanners. Powered by Orderly.",
-  "VITE_SEO_SITE_URL": "https://dex.reytrade.com",
+  "VITE_SEO_SITE_URL": "https://dex.orderly.network/rt1-7582/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
